@@ -9,7 +9,7 @@ fruits = []
 // You will get an "index out of range" error.
 //brokenFirstItem(fruits)  // Breaks :-(
 
-
+//
 
 func firstItem(items: [String]) -> String? {
     if items.isEmpty {
